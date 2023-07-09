@@ -11,3 +11,6 @@ https://dati.camera.it/sparql
 
 https://dati.senato.it/sparql
 
+## Istat
+
+https://esploradati.istat.it/SDMXWS/
