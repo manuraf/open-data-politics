@@ -7,3 +7,7 @@
 
 https://dati.camera.it/sparql
 
+## Senato
+
+https://dati.senato.it/sparql
+
