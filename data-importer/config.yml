@@ -1,0 +1,6 @@
+# API Endpoints
+API_ENDPOINTS = [
+    "https://dati.camera.it/sparql",
+    "https://dati.senato.it/sparql",
+    "https://esploradati.istat.it/SDMXWS/"
+]
